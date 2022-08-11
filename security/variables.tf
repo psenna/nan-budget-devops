@@ -3,5 +3,5 @@ variable "root_compartment_ocid" {
 }
 
 variable "project_name" {
-    type = string
+  type = string
 }
